@@ -1,0 +1,3 @@
+[submodule "generic-webapp-template"]
+	path = generic-webapp-template
+	url = https://github.com/nang-dev/generic-webapp-template.git
